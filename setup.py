@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="example-pkg-programmer_pogav", # Replace with your own username
+    name="MathsFunctions-programmer_pogav", # Replace with your own username
     version="0.0.1",
     author="Pranav Challa",
     author_email="pranav.moony.challa@gmail.com",
